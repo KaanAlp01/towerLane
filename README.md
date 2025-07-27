@@ -1,2 +1,2 @@
 # towerLane
-Simple video game based on a one lane MOBA idea. Main purpose of being played in VR
+Simple video game created using Unity, purpose of it being a one lane MOBA. Conceptualized for playing in VR 
